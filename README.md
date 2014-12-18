@@ -4,3 +4,5 @@ Projekt do předmětu Modelování a simulace (5. semestr FIT VUT) ve stavu, v j
 
 ### Hodnocení
 20/20
+
+Projekt byl vytvořen ve dvoučlenném týmu
