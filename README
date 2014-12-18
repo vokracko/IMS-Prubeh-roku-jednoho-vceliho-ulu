@@ -1,0 +1,14 @@
+Projekt se spouští příkazem ./simulace --input file
+file obsahuje vstupní data, formátování možné zjistit parametrem -h
+
+Ve složce experiments jsou již dva soubory s experimenty vytvořeny
+	vykaceni - experiment popsaný v simulační studii jako vykácení lesa
+	zimovani - experiment popsaný v simulační studii jako ideální počet  zimujících včel
+
+Po provedení programu je možné z výstupních dat vygenerovat grafy příkazy
+	make graph-zimovani
+	make graph-vykaceni
+
+Generování grafů vyžaduje gnuplot.
+
+To všechno lze automaticky spustit příkazem make run
