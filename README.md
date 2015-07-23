@@ -1,4 +1,4 @@
-IMS: Průběh roku jednoho včelýho úlu
+IMS: Průběh roku jednoho včelího úlu
 ==============
 Projekt do předmětu Modelování a simulace (5. semestr FIT VUT) ve stavu, v jakém byl odevzdán k hodnocení.
 
